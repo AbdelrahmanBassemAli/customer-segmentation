@@ -18,3 +18,6 @@ from a Black Friday campaign using NLP techniques. (NTI program, grade B+)
 
 ## Skills applied
 Python, web scraping, NLP, data cleaning, feature engineering.
+
+## Full project files
+Notebook, scraped data, and full writeup: [Google Drive folder](https://drive.google.com/drive/folders/14krzbecw1KTXT40E-UG0wzAvdwivGx72?usp=drive_link)
